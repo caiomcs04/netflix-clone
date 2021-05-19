@@ -1,0 +1,16 @@
+@media screen and (max-width:700px) {
+  header .containner {
+    display: flex;
+    flex-direction: column;
+  }
+  .main-buttom{
+    margin-top: 5px;
+    width: 300px;
+  }
+}
+
+@media screen and (min-width:1000px) {
+  .summary{
+    width: 50%;
+  }
+}
